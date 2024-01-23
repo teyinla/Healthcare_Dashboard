@@ -5,7 +5,7 @@ This analysis leveraged Power BI for end-to-end data processing. I conducted dat
 
 <ol>
   
-  <li> Examining Average Wait Time: Investigate the typical duration patients wait for appointments, revealing insights into healthcare system efficiency.<\li>
+  <li>Examining Average Wait Time: Investigate the typical duration patients wait for appointments, revealing insights into healthcare system efficiency.<\li>
   
   <li> Evaluating Patient Satisfaction: Analyze patient satisfaction scores, identifying factors influencing positive experiences and opportunities for improvement. <\li>
   
