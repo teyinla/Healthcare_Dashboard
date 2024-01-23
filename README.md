@@ -5,16 +5,16 @@ This analysis leveraged Power BI for end-to-end data processing. I conducted dat
 
 <ol>
   
-  <li>Examining Average Wait Time: Investigate the typical duration patients wait for appointments, revealing insights into healthcare system efficiency. <\li>
+  <li>Examining Average Wait Time: Investigate the typical duration patients wait for appointments, revealing insights into healthcare system efficiency. </li>
   
-  <li> Evaluating Patient Satisfaction: Analyze patient satisfaction scores, identifying factors influencing positive experiences and opportunities for improvement. <\li>
+  <li> Evaluating Patient Satisfaction: Analyze patient satisfaction scores, identifying factors influencing positive experiences and opportunities for improvement. </li>
   
-  <li> Monthly Overview of Patient Visits: Gain insights into the monthly flow of patients, understanding healthcare demand dynamics over time. <\li>
+  <li> Monthly Overview of Patient Visits: Gain insights into the monthly flow of patients, understanding healthcare demand dynamics over time. </li>
   
-  <li> Analyzing Administrative vs. Non-Administrative Appointments: Differentiate appointments involving administrative processes, exploring their impact on wait times and patient satisfaction. <\li>
+  <li> Analyzing Administrative vs. Non-Administrative Appointments: Differentiate appointments involving administrative processes, exploring their impact on wait times and patient satisfaction. </li>
   
-  <li> Studying Referrals and Walk-In Patients: Explore the balance between referred and walk-in patients, assessing the overall impact on the patient experience. <\li>
+  <li> Studying Referrals and Walk-In Patients: Explore the balance between referred and walk-in patients, assessing the overall impact on the patient experience. </li>
   
-  <li> Examining Patient Visits by Age Group and Race: Investigate the distribution of patient visits among age groups and races, providing insights into diverse healthcare needs and preferences. <\li>
+  <li> Examining Patient Visits by Age Group and Race: Investigate the distribution of patient visits among age groups and races, providing insights into diverse healthcare needs and preferences. </li>
 
 </ol>
